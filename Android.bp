@@ -24,7 +24,7 @@ common_cflags = [
     "-Wundef",
     "-Wno-format-zero-length",
     "-pipe",
-    "-g3",
+    "-g0",
     "-fvisibility=hidden",
     "-O3",
     "-funroll-loops",
